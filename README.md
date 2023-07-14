@@ -1,6 +1,6 @@
-[![Header]([/ArelyWeb_principal.png](https://github.com/arelyweb/arelywebprueba/blob/master/ArelyWeb_principal.png) "Header")]()
+[![Header]([https://github.com/arelyweb/arelywebprueba/blob/master/ArelyWeb_principal.png] "Header")]()
 
-## <img src="/wave.gif" width="30px"> Acerca de mí
+## <img src="[https://github.com/arelyweb/arelywebprueba/blob/master/wave.gif]" width="30px"> Acerca de mí
 
 Soy desarrolladora web de la CDMX, México. De joven tuve la oportunidad de *leer La vida de las abejas*, un libro acerca de la organización en la colmena y la forma en cómo lo llevan a cabo, me sentí identificada ya que en lo personal y laboral busco organizar mis objetivos y colaborar para que las actividades se realicen en conjunto.
 
