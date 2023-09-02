@@ -1,4 +1,4 @@
-[![Header](https://github.com/arelyweb/arelywebprueba/blob/master/ArelyWeb_principal.png "Header")]()
+[![Header](/ArelyWeb_principal.png "Header")]()
 
 ## <img src="https://github.com/arelyweb/arelywebprueba/blob/master/wave.gif" width="30px"> Acerca de mí
 
